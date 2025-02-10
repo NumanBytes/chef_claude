@@ -1,0 +1,23 @@
+body {
+    font-family: 'Inter';
+}
+
+.header-title {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    gap: 11px;
+    box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.10), 0px 1px 2px 0px rgba(0, 0, 0, 0.06);
+}
+
+.header-title img {
+    width: 43px;
+    height: 52px;
+    align-self : center;
+}
+
+.header-title h1 {
+    font-size: 2rem;
+    font-weight: 400;
+    color: #141413;
+}
